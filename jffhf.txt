@@ -1,0 +1,34 @@
+
+.elementor-3745 .elementor-element.elementor-element-95900b6 .tt-logo-list__item{
+	height:150px;
+	display:flex;
+	justify-content:center;
+	align-items:center
+} 
+ 
+.elementor-3745 .elementor-element.elementor-element-95900b6 img {
+	height:100px
+}
+
+.elementor-3745 .elementor-element.elementor-element-56947e80:not(.elementor-motion-effects-element-type-background), .elementor-3745 .elementor-element.elementor-element-56947e80 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+
+	height:500px;
+}
+
+.elementor-3745 .elementor-element.elementor-element-51168c6 img {
+   
+	width:350px;
+	height:250px;
+		
+}
+.elementor-3745 .elementor-element.elementor-element-787fc4c img {
+  
+	width:350px;
+	height:250px;
+		
+}
+.elementor-3745 .elementor-element.elementor-element-d5ce495 img {
+  
+	width:350px;
+	height:250px;
+}
